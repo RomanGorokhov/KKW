@@ -1,0 +1,1 @@
+@load ./kafkawriter.bif.bro
